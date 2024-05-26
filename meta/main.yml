@@ -1,7 +1,0 @@
-galaxy_info:
-  role_name: cluster_manifest
-  author: Rancher
-  description: VMware NSX 4.x Distributed Firewall STIG Role
-  company: Rancher
-  license: Apache
-  min_ansible_version: '2.9'
