@@ -1,3 +1,3 @@
 ---
-- name: Playbook for rke2-ansible
-  import_playbook: playbooks/site.yml
+- name: RKE2 play
+  import_playbook: ./playbooks/install.yml
